@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emreusun
-- 👀 I’m interested in design
+- 👀 I’m interested in UXdesign and Front end
 - 🌱 I’m currently learning Vue js, PHP, and SASS CSS
 - 💞️ I’m looking to collaborate on UX/UI Desıgn Projects
 - 📫 How to reach me info@emreusun.co
